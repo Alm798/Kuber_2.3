@@ -63,11 +63,11 @@
   10. проверяем curl http://192.168.49.2:30007
 
 
-![1](https://github.com/Alm798/Kuber_2.2/blob/main/img/1.png)
+![1](https://github.com/Alm798/Kuber_2.3/blob/main/img/1.png)
 
-![2](https://github.com/Alm798/Kuber_2.2/blob/main/img/2.png)
+![2](https://github.com/Alm798/Kuber_2.3/blob/main/img/2.png)
 
-![3](https://github.com/Alm798/Kuber_2.2/blob/main/img/3.png)
+![3](https://github.com/Alm798/Kuber_2.3/blob/main/img/3.png)
 
 - - - - - 
 
