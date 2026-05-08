@@ -147,14 +147,14 @@ ConfigMap хранит файл index.html и мы можем изменять �
     kubectl get secrets - TLS Secret есть.
     kubectl describe ingress - убедиться, что нет ошибок и TLS подключен.
 
-![4](https://github.com/Alm798/Kuber_2.2/blob/main/img/4.png)
+![4](https://github.com/Alm798/Kuber_2.3/blob/main/img/4.png)
 
-![5](https://github.com/Alm798/Kuber_2.2/blob/main/img/5.png)
+![5](https://github.com/Alm798/Kuber_2.3/blob/main/img/5.png)
 
-![6](https://github.com/Alm798/Kuber_2.2/blob/main/img/6.png)
+![6](https://github.com/Alm798/Kuber_2.3/blob/main/img/6.png)
 
-![7](https://github.com/Alm798/Kuber_2.2/blob/main/img/7.png)
+![7](https://github.com/Alm798/Kuber_2.3/blob/main/img/7.png)
 
-![8](https://github.com/Alm798/Kuber_2.2/blob/main/img/8.png)
+![8](https://github.com/Alm798/Kuber_2.3/blob/main/img/8.png)
 
 - - - - - 
